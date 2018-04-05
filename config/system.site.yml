@@ -1,0 +1,14 @@
+uuid: d7cc1427-3cf0-4095-a039-0c3b8ce5b0d2
+name: www-podcraft
+mail: dan@dangur.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
